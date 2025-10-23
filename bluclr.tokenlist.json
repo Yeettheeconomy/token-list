@@ -1,0 +1,17 @@
+{
+  "name": "BLUCLR Token List",
+  "logoURI": "https://raw.githubusercontent.com/yeettheeconomy/assets/main/bluclr.png",
+  "tags": {},
+  "timestamp": "2025-10-22T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "BEAZnaGLxhxGz9ZTCVZqbsnZ7Lftfr1LKtDZ58N797f6",
+      "symbol": "BLUCLR",
+      "name": "BLUCLRCOIN",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/yeettheeconomy/assets/main/bluclr.png",
+      "tags": ["memecoin"]
+    }
+  ]
+}
